@@ -1,0 +1,11 @@
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-26 12' WHERE log_hour = '2024-06-25 12';
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-26 7' WHERE log_hour = '2024-06-25 7';
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-26 8' WHERE log_hour = '2024-06-25 8';
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-26 9' WHERE log_hour = '2024-06-25 9';
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-26 10' WHERE log_hour = '2024-06-25 10';
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-26 11' WHERE log_hour = '2024-06-25 11';
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-01 11' WHERE log_hour = '2024-06-02 11';
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-01 09' WHERE log_hour = '2024-06-02 09';
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-04 16' WHERE log_hour = '2024-06-05 16';
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-06 16' WHERE log_hour = '2024-06-07 16';
+UPDATE dwr_res.dws_res_park_h_f SET log_hour = '2024-06-06 09' WHERE log_hour = '2024-06-07 09';
